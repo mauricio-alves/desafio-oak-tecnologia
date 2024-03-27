@@ -12,6 +12,8 @@ The objective is to create an application in a programming language of my choice
 
 After two years of coding with frameworks and libraries, this was a challenge that made me remember my knowledge of React, Tailwind, and Vanilla Javascript methods.
 
+If you want to see the result online, please access this [deploy link](https://teste-oak-tecnologia.netlify.app/).
+
 ---
 
 # Desafio Oak Tecnologia
@@ -27,3 +29,5 @@ O objetivo é criar uma aplicação em uma linguagem de programação de minha e
 5. Uma janela abrirá no seu navegador e a aplicação será executada;
 
 Após dois anos codificando com frameworks e bibliotecas, esse foi um desafio que me fez relembrar meus conhecimentos de React, Tailwind e métodos de Vanilla Javascript.
+
+Se você quiser ver o resultado online, acesse este [link do deploy](https://teste-oak-tecnologia.netlify.app/).
